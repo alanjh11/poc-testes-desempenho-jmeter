@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1793476451834,105,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,105,0,6
+1793476451940,17,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,17,0,0
+1793476451958,17,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,17,0,0
+1793476451976,13,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,13,0,0
+1793476451990,13,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,13,0,0
+1793476452004,15,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,15,0,0
+1793476452019,13,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,13,0,0
+1793476452033,11,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,10,0,0
+1793476452044,15,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,15,0,0
+1793476452060,16,HTTP Request,200,,Thread Group 1-1,text,true,,234,124,1,1,http://localhost:8080/contatos,16,0,0
